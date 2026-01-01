@@ -1,5 +1,5 @@
 # 📊 Sales Performance Analysis – Multi-Store Retail Business (Indonesia)
-
+[See data cleaning and processing with SQL](https://github.com/Jay0494/SQL_data-cleaning-and-analysis-of-multi-store-sales-data.git)
 ## 📌 Project Overview
 
 This project analyzes sales performance for a fast-growing multi-store retail business operating across major cities in Indonesia. The goal was to transform raw transactional data into a **decision-ready analytics framework** that supports operational optimization, performance monitoring, and scalable growth.
