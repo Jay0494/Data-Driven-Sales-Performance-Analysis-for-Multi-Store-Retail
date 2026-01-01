@@ -245,6 +245,6 @@ This project converted raw transactional data into a **scalable sales analytics 
 
 ## 📊 Dashboard
 
-**[Sales Performance Dashboard]**((https://app.powerbi.com/view?r=eyJrIjoiMzVkNTVhNjgtOWNhMi00N2FkLThjODAtNTI1NTkwM2FmMTA2IiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9)
+**[Sales Performance Dashboard]**(https://app.powerbi.com/view?r=eyJrIjoiMzVkNTVhNjgtOWNhMi00N2FkLThjODAtNTI1NTkwM2FmMTA2IiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9)
 
 
