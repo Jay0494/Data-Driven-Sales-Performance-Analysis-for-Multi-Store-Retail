@@ -109,6 +109,8 @@ Excluded:
 * How has sales evolved month-over-month?
 * Where should management focus optimization efforts?
 
+
+[Interactive Sales Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzVkNTVhNjgtOWNhMi00N2FkLThjODAtNTI1NTkwM2FmMTA2IiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9)
 ---
 
 ## 📈 Key Insights
